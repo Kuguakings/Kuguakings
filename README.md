@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there 👋, I'm Kuguakings
 
-<!--
-**Kuguakings/Kuguakings** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CS sophomore at **Taiyuan University of Technology**, passionate about Game Dev and System Architecture.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a **Match-3 RPG Game** using Unity & Tencent Cloud.
+- 📚 I’m currently learning **LC-3 Architecture** & **Data Structures**.
+- 🥅 Goals: Get leaner while getting stronger (Running & Core Training).
+- ⚡ Fun fact: I know how to bypass port 22 to push code!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages and Tools
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
