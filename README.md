@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kuguakings
 
-I am a CS sophomore at **Taiyuan University of Technology**, passionate about Game Dev and System Architecture.
+I am a Sophomore at **Taiyuan University of Technology** (TYUT).
+**🏫 College of Computer Science and Technology | 💻 Software Engineering**
 
 - 🔭 I’m currently working on a **Match-3 RPG Game** using Unity & Tencent Cloud.
 - 📚 I’m currently learning **LC-3 Architecture** & **Data Structures**.
