@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kuguakings
 
-I am a Sophomore at **Taiyuan University of Technology** (TYUT).
+I am a Sophomore at **Taiyuan University of Technology** (TYUST).
 **🏫 College of Computer Science and Technology | 💻 Software Engineering**
 
 - 🔭 I’m currently working on a **Match-3 RPG Game** using Unity & Tencent Cloud.
